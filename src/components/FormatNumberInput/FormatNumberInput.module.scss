@@ -1,0 +1,32 @@
+.customInput {
+  display: block;
+  margin-bottom: 15px;
+  width: 100%;
+  height: calc(36px + 2px);
+  padding: 10px;
+  font-family: inherit;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #bdbdbd;
+  border-radius: 5px;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.customInput:focus {
+  outline: 2px solid #bdbdbd;
+}
+
+.customInputError {
+  line-height: 16px;
+  min-height: 16px;
+  width: 100%;
+  color: #b90e0a;
+  text-align: left;
+  font-size: 13px;
+  margin-bottom: 10px;
+  margin-top: -5px;
+}

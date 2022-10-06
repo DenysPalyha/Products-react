@@ -1,0 +1,27 @@
+.shopingCard {
+  fill: #037395;
+  width: 24px;
+  height: 24px;
+  &:hover {
+    fill: #01bb01;
+  }
+}
+
+.listItems {
+  cursor: pointer;
+}
+
+.countFavorite {
+  position: absolute;
+  top: -3px;
+  left: 6px;
+  display: block;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  font-size: 12px;
+  font-weight: bold;
+  background: #ffffff;
+  color: rgb(10, 8, 8);
+  text-align: center;
+}

@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Modal snapshot component should Modal must match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="modal"
+    data-testid="modal-root"
+  >
+    <div
+      class="bgColorModal"
+    />
+    <div
+      class="container"
+    >
+      <div
+        class="headerModal"
+      >
+        <h2
+          class="headerTitle"
+        >
+          modal test
+        </h2>
+        <button
+          class="btnClose"
+        />
+      </div>
+      <div
+        class="modalBody"
+      >
+        text test
+      </div>
+      <div
+        class="footerBtn"
+      >
+        <button>
+          click test
+        </button>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

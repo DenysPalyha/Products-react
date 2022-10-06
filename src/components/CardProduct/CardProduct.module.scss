@@ -1,0 +1,154 @@
+.container {
+  width: 260px;
+  padding: 10px;
+  margin: 0 20px 30px 0;
+  border: 1px solid #959595;
+  border-radius: 5px;
+}
+
+.container:nth-child(4n) {
+  margin-right: 0;
+}
+
+.container:hover {
+  box-shadow: 0 0 10px #959595;
+}
+
+.wrapperHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.productName {
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  line-height: 1;
+  color: #959595;
+}
+
+.starIcon {
+  fill: #ffffff;
+  width: 24px;
+  height: 24px;
+}
+
+.starIconActive {
+  fill: #f8c660;
+  width: 24px;
+  height: 24px;
+}
+
+.positionImg {
+  margin: 10px 0 10px;
+  text-align: center;
+}
+
+.imagesCard {
+  width: 150px;
+  height: 200px;
+}
+
+.priceCard {
+  margin: 0;
+  padding: 0 0 10px;
+  font-size: 14px;
+  line-height: 1;
+  color: #959595;
+}
+
+.codeProduct {
+  margin: 0;
+  padding: 0 0 10px;
+  font-size: 14px;
+  line-height: 1;
+  color: #959595;
+}
+
+.textColorProduct {
+  display: flex;
+  font-size: 16px;
+  line-height: 1;
+  color: #959595;
+}
+
+.colorProduct {
+  margin: 2px 0 20px 10px;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+}
+
+.positionBtn {
+  text-align: center;
+}
+
+.containerList {
+  margin-bottom: 20px;
+  padding: 10px;
+  width: 100%;
+  border: 1px solid #959595;
+  border-radius: 5px;
+
+  display: flex;
+  justify-content: space-around;
+}
+
+.imagesCardList {
+  width: 100px;
+  height: 100px;
+}
+
+.wrapperTextInfoList {
+  width: 600px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.productNameList {
+  margin: 0;
+  padding: 0;
+  font-size: 18px;
+  line-height: 1;
+  color: #959595;
+}
+
+.priceCardList {
+  margin: 0;
+  padding: 0;
+  font-size: 18px;
+  line-height: 1;
+  color: #959595;
+}
+
+.codeProductList {
+  margin: 0;
+  padding: 0;
+  font-size: 18px;
+  line-height: 1;
+  color: #959595;
+}
+
+.textColorProductList {
+  display: flex;
+  font-size: 18px;
+  line-height: 1;
+  color: #959595;
+}
+
+.colorProductList {
+  margin: 2px 0 0 10px;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+}
+
+.wrapperHeaderList {
+  width: 200px;
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+  align-items: center;
+}

@@ -1,0 +1,142 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card Product component should do snapshot Card Product component 1`] = `
+<DocumentFragment>
+  <div
+    class="container"
+    data-testid="card-root"
+  >
+    <div
+      class="wrapperHeader"
+    >
+      <p
+        class="productName"
+      >
+        Moto G Stylus 5G
+      </p>
+      <button
+        class="btn"
+        type="button"
+      >
+        <svg
+          class="starIcon"
+        >
+          star.svg
+        </svg>
+      </button>
+    </div>
+    <div
+      class="positionImg"
+    >
+      <img
+        alt="Moto G Stylus 5G"
+        class="imagesCard"
+        src="./img/no_icon.png"
+      />
+    </div>
+    <p
+      class="priceCard"
+    >
+      Price: 739.99$
+    </p>
+    <p
+      class="codeProduct"
+    >
+      Vendor-code: 0
+    </p>
+    <div
+      class="textColorProduct"
+    >
+      Color:
+      <div
+        class="colorProduct"
+        style="background-color: rgb(255, 255, 255);"
+      />
+    </div>
+    <div
+      class="positionBtn"
+    >
+      <button
+        class="btn"
+        style="background-color: rgb(6, 115, 5);"
+        type="button"
+      >
+        Add to cart
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`change layout card product should change layout card product on list snapShot 1`] = `
+<DocumentFragment>
+  <button
+    type="button"
+  >
+    list
+  </button>
+  <div
+    class="container"
+    data-testid="card-root"
+  >
+    <div
+      class="wrapperHeader"
+    >
+      <p
+        class="productName"
+      >
+        Moto G Stylus 5G
+      </p>
+      <button
+        class="btn"
+        type="button"
+      >
+        <svg
+          class="starIcon"
+        >
+          star.svg
+        </svg>
+      </button>
+    </div>
+    <div
+      class="positionImg"
+    >
+      <img
+        alt="Moto G Stylus 5G"
+        class="imagesCard"
+        src="./img/no_icon.png"
+      />
+    </div>
+    <p
+      class="priceCard"
+    >
+      Price: 739.99$
+    </p>
+    <p
+      class="codeProduct"
+    >
+      Vendor-code: 0
+    </p>
+    <div
+      class="textColorProduct"
+    >
+      Color:
+      <div
+        class="colorProduct"
+        style="background-color: rgb(255, 255, 255);"
+      />
+    </div>
+    <div
+      class="positionBtn"
+    >
+      <button
+        class="btn"
+        style="background-color: rgb(6, 115, 5);"
+        type="button"
+      >
+        Add to cart
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;

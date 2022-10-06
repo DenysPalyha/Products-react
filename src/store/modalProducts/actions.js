@@ -1,0 +1,2 @@
+export const SET_MODAL_ADD_PRODUCT = "SET_MODAL_ADD_PRODUCT";
+export const DATA_PRODUCT = "DATA_PRODUCT";

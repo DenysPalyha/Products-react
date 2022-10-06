@@ -1,0 +1,81 @@
+[{
+    "id" : 1,
+    "productName" : "Moto G Stylus 5G",
+    "price" : 739.99,
+    "imageUrl" : "./img/motorola.jpg",
+    "vendorCode" : 225739,
+    "color" : "#366735"
+},
+{
+    "id" : 2,
+    "productName" : "SAMSUNG Galaxy Z Flip",
+    "price" : 999.99,
+    "imageUrl" : "./img/SAMSUNG-Galaxy.jpg",
+    "vendorCode" : 225999,
+    "color" : "#2d3134"
+},
+{
+    "id" : 3,
+    "productName" : "OnePlus 9 Pro Morning Mist",
+    "price" : 449.99,
+    "imageUrl" : "./img/onePlus.jpg",
+    "vendorCode" : 225449,
+    "color" : "#e5dbd6"
+},
+{
+    "id" : 4,
+    "productName" : "Tracfone Alcatel TCL A3",
+    "price" : 99.99,
+    "imageUrl" : "./img/alcatel.jpg",
+    "vendorCode" : 225990,
+    "color" : "#000"
+},
+{
+    "id" : 5,
+    "productName" : "Google Pixel 6a",
+    "price" : 649.99,
+    "imageUrl" : "./img/googlePixel.jpg",
+    "vendorCode" : 225649,
+    "color" : "#656565"
+},
+{
+    "id" : 6,
+    "productName" : "Ulefone Note 7",
+    "price" : 189.99,
+    "imageUrl" : "./img/ulefoneNote.jpg",
+    "vendorCode" : 225189,
+    "color" : "#008000"
+},
+{
+    "id" : 7,
+    "productName" : "Samsung Galaxy S10+",
+    "price" : 519.99,
+    "imageUrl" : "./img/samsungGalaxuS10.jpg",
+    "vendorCode" : 225519,
+    "color" : "#515462"
+},
+{
+    "id" : 8,
+    "productName" : "Xperia 1 III - 5G",
+    "price" : 333.99,
+    "imageUrl" : "./img/xperia.jpg",
+    "vendorCode" : 225333,
+    "color" : "#000"
+},
+{
+    "id" : 9,
+    "productName" : "Asus ROG Phone 5 ZS673KS",
+    "price" : 719.99,
+    "imageUrl" : "./img/asusRog.jpg",
+    "vendorCode" : 225719,
+    "color" : "#732212"
+},
+{
+    "id" : 10,
+    "productName" : "Nokia G50 5G",
+    "price" : 139.99,
+    "imageUrl" : "./img/nokia.jpg",
+    "vendorCode" : 225139,
+    "color" : "#00a9cc"
+}
+]
